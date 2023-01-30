@@ -1,0 +1,22 @@
+header {
+    background: #ffffff;
+    text-align: center;
+    border: 2px solid;
+    border-color: blue;
+}
+
+#add-gif     { position: relative; height: 500px}
+#add-gif img { position: absolute; bottom: 0; left: 200px}
+#logo2       { left: auto; right: 0}
+
+body {
+    background: #a1d8fc;
+    text-align: center;
+}
+.bottom-text {
+    background: #ffffff;
+    text-align: left;
+    border: 1px solid;
+    padding-left: 20px;
+    border-color: blue;
+}
